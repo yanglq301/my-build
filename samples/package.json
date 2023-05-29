@@ -1,0 +1,12 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "my-build start --debug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
